@@ -33,8 +33,8 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 
 - *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong, China.
 - *2021.08 - 2023.03*, MSc, Electronic and Information, The Hong Kong Polytechnic University, Hong Kong, China.
-- *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering with H2A Class, Adelaide University (Formly UniSA, dual
-  joint with XAUAT), Adelaide ,Australia.
+- *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering, Adelaide University (Formly UniSA, dual
+  joint with XAUAT), Adelaide, Australia.
 
 # 🔥 News
 
@@ -61,8 +61,21 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com),
-  A, B, C, **CVPR 2020**
+- [Distributed Generation Using Buck Converters
+*Based on Consensus Control in DC Microgrid Integrations](https://github.com),
+  **W. Yao**, KY. Wang, K. Chen, **2022 8th International Conference on 
+Power Electronics Systems and Applications (PESA 2022)**
+- [Study of Li-ion Battery Exchange Stations in Future Power System](https://github.com),
+  **W. Yao**, KY. Wang, J. Sun, **2022 8th International Conference on
+  Power Electronics Systems and Applications (PESA 2022)**
+- [A Novel Design of Wireless Charging Glove](https://github.com),
+  **W. Yao**, KF. Ng, HW. Xiao, **2022 8th International Conference on
+  Power Electronics Systems and Applications (PESA 2022)**
+- [Distributed Generation Using Buck Converters Based on Consensus Control in DC Microgrid Integrations](https://github.com),
+  **W. Yao**, KY. Wang, Y. Mao, **2022 IEEE IAS Industrial and
+Commercial Power System Asia (IEEE ICPS Asia 2022)**
+- [The application of artificial intelligence in the internet of things](https://github.com),
+  **W. Yao**, **2019 International Conference on Information Technology and Computer Application (ITCA 2019)**
 
 # 🎖 Honors and Awards
 
