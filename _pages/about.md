@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl.
-Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris
-nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla
-orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec
-nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat,
-tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur,
-vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University, under the supervision of
+ <a href="https://rayeren.github.io/">Prof. Ken Yiu</a>. I received my M.S. degree in Electronic and Information from PolyU in 2023. I also obtained dual
+bachelor’s degrees from Xi'an University of Architecture and Technology (XAUAT) and the University of South Australia (
+UniSA), majoring in Building Electricity and Intelligence, as well as Electrical and Electronic Engineering, with Second
+Upper Class Honours (H2A) in July 2021. Additionally, I visited the University of Reading from July to August 2018.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at
 the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google
@@ -72,8 +69,6 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
   dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
   dapibus sit amet.
-
-
 
 # 💬 Invited Talks
 

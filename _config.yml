@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenbo Yao's Homepage"
-description              :
+description              :  "The Hong Kong Polytechnic University"
 repository               : "yaowenbo99/yaowenbo99.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbo Yao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CS PhD student @ HKPolyU"
+  bio              : "CS PhD student"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :
