@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University, under the supervision of
- <a href="https://rayeren.github.io/">Prof. Ken Yiu</a>. I received my M.S. degree in Electronic and Information from PolyU in 2023. I also obtained dual
+<a href="https://rayeren.github.io/">Prof. Ken Yiu</a>. I received my M.S. degree in Electronic and Information from
+PolyU in 2023. I also obtained dual
 bachelor’s degrees from Xi'an University of Architecture and Technology (XAUAT) and the University of South Australia (
 UniSA), majoring in Building Electricity and Intelligence, as well as Electrical and Electronic Engineering, with Second
 Upper Class Honours (H2A) in July 2021. Additionally, I visited the University of Reading from July to August 2018.
@@ -30,10 +31,10 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 
 # 📖 Educations
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac
-  tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus
-  justo dapibus sit amet.
+- *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2021.08 - 2023.03*, MSc, Electronic and Information, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering with H2A Class, Adelaide University (Formly UniSA, dual
+  joint with XAUAT), Adelaide ,Australia.
 
 # 🔥 News
 
@@ -70,6 +71,12 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
   dapibus sit amet.
 
+# 💻 Work and Interns
+
+- *2023.08 - 2024.12*, China Telecom, Full-time Backend Developer, Xi'an, Shaanxi, China.
+- *2022.06 - 2022.09*, Huawei, Software Developer Intern, Dongguan, Guangdong, China.
+- *2022.05 - 2022.06*, Insta360, Deep Learning Engineer Intern, Shenzhen, Guangdong, China.
+
 # 💬 Invited Talks
 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
@@ -77,6 +84,3 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
   dapibus sit amet. \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
