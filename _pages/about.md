@@ -44,13 +44,13 @@ badge <a href='https://scholar.google.com/citations?user=ncfjRCYAAAAJ'><img src=
 
 # 🔥 News
 
-- *2024.11*: &nbsp;🎉🎉 Receive Ph.D. offer letter from PolyU.
+- *2024.11*: &nbsp;🎉🎉 Received Ph.D. offer letter from PolyU.
 - *2023.03*: &nbsp;🎉🎉 Master degree graduated from PolyU.
 
 # 📝 Publications
 
 - [Distributed Generation Using Buck Converters
-  *Based on Consensus Control in DC Microgrid Integrations](https://ieeexplore.ieee.org/document/10038432),
+  Based on Consensus Control in DC Microgrid Integrations](https://ieeexplore.ieee.org/document/10038432),
   **W. Yao**, KY. Wang, K. Chen, **2022 8th International Conference on
   Power Electronics Systems and Applications (PESA 2022)**
 - [Study of Li-ion Battery Exchange Stations in Future Power System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ncfjRCYAAAAJ&citation_for_view=ncfjRCYAAAAJ:2osOgNQ5qMEC),
