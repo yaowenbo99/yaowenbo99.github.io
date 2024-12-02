@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University, under the supervision of
-<a href="https://rayeren.github.io/">Prof. Ken Yiu</a>. I received my M.S. degree in Electronic and Information from
-PolyU in 2023. I also obtained dual
-bachelor’s degrees from Xi'an University of Architecture and Technology (XAUAT) and the University of South Australia (
-UniSA), majoring in Building Electricity and Intelligence, as well as Electrical and Electronic Engineering, with Second
-Upper Class Honours (H2A) in July 2021. Additionally, I visited the University of Reading from July to August 2018.
+I am a Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University (PolyU), supervised by Prof.
+Ken
+Yiu. I received my M.S. degree in Electronic and Information Engineering from PolyU in 2023. Prior to that, I obtained
+dual bachelor’s degrees from the University of South Australia (now Adelaide University, joint with XAUAT),
+majoring in Electrical and Electronic Engineering, graduating with Second Upper Class Honours (H2A) in July 2021.
+Additionally, I visited the University of Reading in 2018.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at
-the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google
+My research interest includes AI4DB and DL-based speech processing. I have published more than 100 papers at
+the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ncfjRCYAAAAJ'>google
 scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar
-badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+badge <a href='https://scholar.google.com/citations?user=ncfjRCYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
 
@@ -36,64 +36,46 @@ badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src=
 - *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering, Adelaide University (Formly UniSA, dual
   joint with XAUAT), Adelaide, Australia.
 
-# 🔥 News
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus
-  justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus
-  justo dapibus sit amet.
-
-# 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project
-**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit
-  amet.
-
-</div>
-</div>
-
-- [Distributed Generation Using Buck Converters
-*Based on Consensus Control in DC Microgrid Integrations](https://github.com),
-  **W. Yao**, KY. Wang, K. Chen, **2022 8th International Conference on 
-Power Electronics Systems and Applications (PESA 2022)**
-- [Study of Li-ion Battery Exchange Stations in Future Power System](https://github.com),
-  **W. Yao**, KY. Wang, J. Sun, **2022 8th International Conference on
-  Power Electronics Systems and Applications (PESA 2022)**
-- [A Novel Design of Wireless Charging Glove](https://github.com),
-  **W. Yao**, KF. Ng, HW. Xiao, **2022 8th International Conference on
-  Power Electronics Systems and Applications (PESA 2022)**
-- [Distributed Generation Using Buck Converters Based on Consensus Control in DC Microgrid Integrations](https://github.com),
-  **W. Yao**, KY. Wang, Y. Mao, **2022 IEEE IAS Industrial and
-Commercial Power System Asia (IEEE ICPS Asia 2022)**
-- [The application of artificial intelligence in the internet of things](https://github.com),
-  **W. Yao**, **2019 International Conference on Information Technology and Computer Application (ITCA 2019)**
-
-# 🎖 Honors and Awards
-
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-
 # 💻 Work and Interns
 
 - *2023.08 - 2024.12*, China Telecom, Full-time Backend Developer, Xi'an, Shaanxi, China.
 - *2022.06 - 2022.09*, Huawei, Software Developer Intern, Dongguan, Guangdong, China.
 - *2022.05 - 2022.06*, Insta360, Deep Learning Engineer Intern, Shenzhen, Guangdong, China.
 
+# 🔥 News
+
+- *2024.11*: &nbsp;🎉🎉 Receive Ph.D. offer letter from PolyU.
+- *2023.03*: &nbsp;🎉🎉 Master degree graduated from PolyU.
+
+# 📝 Publications
+
+- [Distributed Generation Using Buck Converters
+  *Based on Consensus Control in DC Microgrid Integrations](https://ieeexplore.ieee.org/document/10038432),
+  **W. Yao**, KY. Wang, K. Chen, **2022 8th International Conference on
+  Power Electronics Systems and Applications (PESA 2022)**
+- [Study of Li-ion Battery Exchange Stations in Future Power System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ncfjRCYAAAAJ&citation_for_view=ncfjRCYAAAAJ:2osOgNQ5qMEC),
+  **W. Yao**, KY. Wang, J. Sun, **2022 8th International Conference on
+  Power Electronics Systems and Applications (PESA 2022)**
+- [A Novel Design of Wireless Charging Glove](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ncfjRCYAAAAJ&citation_for_view=ncfjRCYAAAAJ:u-x6o8ySG0sC),
+  **W. Yao**, KF. Ng, HW. Xiao, **2022 8th International Conference on
+  Power Electronics Systems and Applications (PESA 2022)**
+- [Distributed Generation Using Buck Converters Based on Consensus Control in DC Microgrid Integrations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ncfjRCYAAAAJ&citation_for_view=ncfjRCYAAAAJ:qjMakFHDy7sC),
+  **W. Yao**, KY. Wang, Y. Mao, **2022 IEEE IAS Industrial and
+  Commercial Power System Asia (IEEE ICPS Asia 2022)**
+- [The application of artificial intelligence in the internet of things](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ncfjRCYAAAAJ&citation_for_view=ncfjRCYAAAAJ:d1gkVwhDpl0C),
+  **W. Yao**, **2019 International Conference on Information Technology and Computer Application (ITCA 2019)**
+
+# 🎖 Honors and Awards
+
+- *2023.08* Talent Scheme, China Telecom.
+- *2022.09* Excellent Intern, Huawei Technologies Co. Ltd.
+- *2019.07* EEE Student Ambassador, University of South Australia.
+- *2019.07* University Merit Awards, University of South Australia.
+- *2018, 2019* College Scholarship, XAUAT.
+
 # 💬 Invited Talks
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet. \| [\[video\]](https://github.com/)
+- *2024.12*, Share Talk, An De College, Xi'an University of Architecture and Technology.
+- *2022.04*, Lab Instructor, EE2004A/C, Electrical Energy Systems Fundamentals,
+  2022 Spring, The Hong Kong Polytechnic University. \
 
