@@ -67,15 +67,15 @@ badge <a href='https://scholar.google.com/citations?user=ncfjRCYAAAAJ'><img src=
 
 # 🎖 Honors and Awards
 
-- *2023.08* Talent Scheme, China Telecom.
-- *2022.09* Excellent Intern, Huawei Technologies Co. Ltd.
-- *2019.07* EEE Student Ambassador, University of South Australia.
-- *2019.07* University Merit Awards, University of South Australia.
-- *2018, 2019* College Scholarship, XAUAT.
+- *2023.08*, Talent Scheme, China Telecom.
+- *2022.09*, Excellent Intern, Huawei Technologies Co. Ltd.
+- *2019.07*, EEE Student Ambassador, University of South Australia.
+- *2019.07*, University Merit Awards, University of South Australia.
+- *2018, 2019*, College Scholarship, XAUAT.
 
 # 💬 Invited Talks
 
 - *2024.12*, Share Talk, An De College, Xi'an University of Architecture and Technology.
 - *2022.04*, Lab Instructor, EE2004A/C, Electrical Energy Systems Fundamentals,
-  2022 Spring, The Hong Kong Polytechnic University. \
+  2022 Spring, The Hong Kong Polytechnic University. 
 
