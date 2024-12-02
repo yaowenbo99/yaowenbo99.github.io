@@ -32,7 +32,7 @@ badge <a href='https://scholar.google.com/citations?user=ncfjRCYAAAAJ'><img src=
 # 📖 Educations
 
 - *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong, China.
-- *2021.08 - 2023.03*, MSc, Electronic and Information, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2021.08 - 2023.03*, MSc, Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong, China.
 - *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering, Adelaide University (Formly UniSA, dual
   joint with XAUAT), Adelaide, Australia.
 
