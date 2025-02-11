@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am currently pursuing a Ph.D. in the Department of Computing at The Hong Kong Polytechnic University (PolyU), under
 the supervision of Prof. Ken Yiu. I completed my M.S. degree in Electronic and Information Engineering at PolyU in 2023.
 Prior to this, I obtained dual bachelor’s degrees from the University of South Australia (now Adelaide University, in
