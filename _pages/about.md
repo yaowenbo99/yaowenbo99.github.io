@@ -21,18 +21,19 @@ redirect_from:
 
 I am currently pursuing a Ph.D. in the Department of Computing at The Hong Kong Polytechnic University (PolyU), under
 the supervision of Prof. Ken Yiu. I completed my M.S. degree in Electronic and Information Engineering at PolyU in 2023.
-Prior to this, I obtained dual bachelor’s degrees from the University of South Australia (now Adelaide University, in
-collaboration with XAUAT), majoring in Electrical and Electronic Engineering, graduating with Second Upper Class
+Prior to this, I obtained dual bachelor’s degrees from the Adelaide University (Formly UniSA), majoring in Electrical
+and Electronic Engineering, graduating with Second Upper Class
 Honours (H2A) in July 2021. I also had the opportunity to visit the University of Reading in 2018.
 
-My research interests lie in AI for databases (AI4DB), with a particular focus on multi-modal retrieval. I am also open
+My research interests lie in AI for databases (AI4DB), with a particular focus on multi-modal retrieval and query
+optimization. I am also open
 to exploring academic collaborations and research internship opportunities in industry. Please feel free to reach out if
 you are interested in connecting!
 
 # 📖 Educations
 
-- *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong, China.
-- *2021.08 - 2023.03*, MSc, Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong,
+- *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong SAR, China.
+- *2021.08 - 2023.03*, MSc, Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong SAR,
   China.
 - *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering, Adelaide University (Formly UniSA, dual
   joint with XAUAT), Adelaide, Australia.
