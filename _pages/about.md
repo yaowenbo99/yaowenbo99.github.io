@@ -33,10 +33,15 @@ you are interested in connecting!
 # 📖 Educations
 
 - *2025.01 - now*, Ph.D., Computing, The Hong Kong Polytechnic University, Hong Kong SAR, China.
+  - _Supervisor_: [Professor Ken Yiu](https://www4.comp.polyu.edu.hk/~csmlyiu/)
 - *2021.08 - 2023.03*, MSc, Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong SAR,
   China.
+  - _Thesis Title_: DL-Based Speech Enhancement
+  - _Supervisor_: [Professor Daniel, P.K. Lun](https://www.eie.polyu.edu.hk/~enpklun/)
 - *2017.09 - 2021.07*, BEng(Honours), Electrical and Electronic Engineering, Adelaide University (Formly UniSA, dual
   joint with XAUAT), Adelaide, Australia.
+  - _Thesis Title_: Detection of Young Trees from Drones 
+  - _Supervisor_: [Professor Anthony Finn](https://people.unisa.edu.au/anthony.finn)
 
 # 💻 Work and Interns
 
